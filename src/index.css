@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+.cold{
+    background-color:#9FDBF3;
+}
+.hot{
+    background-color:#DB5669;
+}
+.normal{
+    background-color: #FCCF3F;
+}
+.btn-color{
+    background-color: #0D6E9A;
+}
